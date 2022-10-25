@@ -14,9 +14,9 @@ function NavBar(){
           <li className="nav-item">
             <a className="nav-link" id="login" style={{display: 'inline'}} href="#/login/">Login</a>
           </li>
-          {/* <li className="nav-item">
+          {<li className="nav-item">
             <a className="nav-link" id="logout" style={{display: 'none'}} href="#/logout/">Logout</a>
-          </li> */}
+          </li>}
           <li className="nav-item">
             <a className="nav-link" id="deposit" style={{display: 'none'}} href="#/deposit/">Deposit</a>
           </li>
