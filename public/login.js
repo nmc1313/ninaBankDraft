@@ -46,7 +46,7 @@ function LoginForm(props){
     });
     document.getElementById('createAccount').style.display = 'none';
     document.getElementById('login').style.display = 'none';
-    // document.getElementById('logout').style.display = 'inline';
+    document.getElementById('logout').style.display = 'inline';
     document.getElementById('deposit').style.display = 'inline';
     document.getElementById('withdraw').style.display = 'inline';
     // document.getElementById('balance').style.display = 'inline';
