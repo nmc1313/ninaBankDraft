@@ -1,2 +1,2 @@
-# ninaBankDraft
-Draft version of final
+# ninaBank
+ninaBank Capstone project MIT xPro
